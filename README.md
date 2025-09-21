@@ -5,17 +5,25 @@ It helps in understanding content performance and deriving insights from engagem
 🚀 Features
 
 1.Data preprocessing and cleaning
+
 2. Exploratory Data Analysis (EDA) with visualizations
+   
 3. Engagement trend analysis (likes, shares, comments, etc.)
+
 4. Identification of top-performing content
+    
 5. Visual reports for better decision-making
 
 🛠️ Tech Stack
 
 . Python
+
 . Jupyter Notebook
+
 . Pandas – Data manipulation
+
 . Matplotlib & Seaborn – Visualization
+
 . NumPy – Numerical computations
 
 📊 Usage
@@ -27,5 +35,7 @@ It helps in understanding content performance and deriving insights from engagem
 📌 Example Visualizations
 
 .Engagement trends over time
+
 .Content type vs engagement
+
 .Heatmaps for correlations
